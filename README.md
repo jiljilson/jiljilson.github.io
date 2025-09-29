@@ -150,7 +150,7 @@
     </p>
     <div class="video-container">
       <!-- Replace YT_VIDEO_ID with your YouTube video ID -->
-      <video src="Jilson Johnson (amazing skills)2018-19 - Professional Nightfury (720p, h264).mp4 " autoplay controls height="350" > MY AMAZING SKILLS</video>
+      <video src="Jilson Johnson (amazing skills)2018-19 - Professional Nightfury (720p, h264).mp4 " autoplay controls height="900" > MY AMAZING SKILLS</video>
     </div>
   </section>
 
